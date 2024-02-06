@@ -2,7 +2,8 @@
 
 Welcome to Julio and Willy! 🌍✈️
 
-![Julio and Willy Logo](logo.png)
+<img src="IMG_9301.png" alt="Julio and Willy Logo" style="width: 200px; height: auto;">
+
 
 ## About Us
 
